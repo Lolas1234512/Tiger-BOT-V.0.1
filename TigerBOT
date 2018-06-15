@@ -1,7 +1,0 @@
-import discord
-from discord.ext import commands
-from discord.ext.commands import Bot
-import asyncio
-import random
-
-TOKEN = 'NDU2Nzk1ODQ5NTYxOTk3MzEy.DgP3fw.mzsod-ZFy61p3zX2QudQyTRTJ7Y'
